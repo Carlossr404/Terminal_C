@@ -1,3 +1,6 @@
+This document details the assignment for Lab 1 of the Rhodes College COMP 251 Intro to Systems Programming course. 
+The instructions in this document were followed when creating the project.
+
 # Lab 1: Shell
 
 ## Introduction
